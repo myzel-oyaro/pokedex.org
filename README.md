@@ -1,7 +1,7 @@
 Pokedex.org ![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
 ====
 
-An index of Pokémon, built as a client-side JavaScript webapp. Powered by ServiceWorker, PouchDB, [virtual-dom](https://github.com/Matt-Esch/virtual-dom), and web workers.
+An index of Pokémon, built as a client-side JavaScript webapp. Powered by ServiceWorker, PouchDB, [virtual-dom](https://github.com/Matt-Esch/virtual-dom), and web workers. im changing things
 
 See the [Introducing Pokedex.org](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org) blog post for details on the architecture.
 
